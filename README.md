@@ -68,7 +68,7 @@ Smart-Crop-Recommendation/
 
 1. **Download or Clone** the repository  
    ```bash
-   git clone 
+   git clone https://github.com/nehalgaherwar/Smart-Crop-Recommendation-System.git
 Open the folder in VS Code
 
 Run the project by opening index.html in your browser
