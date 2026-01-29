@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Crop Recommendation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>🌱 Smart Crop Recommendation</h1>
+
+    <label>Soil Type</label>
+    <select id="soil">
+        <option value="loamy">Loamy</option>
+        <option value="clay">Clay</option>
+        <option value="sandy">Sandy</option>
+    </select>
+
+    <label>Season</label>
+    <select id="season">
+        <option value="summer">Summer</option>
+        <option value="winter">Winter</option>
+        <option value="monsoon">Monsoon</option>
+    </select>
+
+    <label>Water Availability</label>
+    <select id="water">
+        <option value="low">Low</option>
+        <option value="medium">Medium</option>
+        <option value="high">High</option>
+    </select>
+
+    <button onclick="recommendCrop()">Recommend Crop</button>
+
+    <div id="result"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
