@@ -106,8 +106,8 @@ Nehal Gaherwar
 
 
 ⭐ Support
-If you like this project, don’t forget to:
+If you like this project, don’t forget to:                                                    
 
-⭐ Star the repository
-🍴 Fork it
-🧑‍💻 Use it in your portfolio
+⭐ Star the repository                                                                                          
+🍴 Fork it                                                                                                  
+🧑‍💻 Use it in your portfolio                                                                                                      
