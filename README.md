@@ -91,11 +91,11 @@ Structuring real-world projects
 ---
 
 # 🌟 Future Enhancements
-🚀 Add real-time Weather API
-🚀 Suggest fertilizers
-🚀 Add crop yield charts
-🚀 Store farmer input data
-🚀 Convert project into React App
+🚀 Add real-time Weather API                                                                                                                        
+🚀 Suggest fertilizers                                                                                                            
+🚀 Add crop yield charts                                                                                      
+🚀 Store farmer input data                                                                                                          
+🚀 Convert project into React App                                                                                                    
 
 ---
 
